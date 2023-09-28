@@ -1,13 +1,13 @@
 """
 Magic Formula Script
 
-Version 1.1
+Version 0.1
 
-Author: Nathan Hsu
+Author: Berkcan Kapusuzoglu
 """
 
-__version__ = "1.0"
-__author__ = "Nathan Hsu"
+__version__ = "0.1"
+__author__ = "Berkcan Kapusuzoglu"
 
 from yahoofinancials import YahooFinancials
 import json
